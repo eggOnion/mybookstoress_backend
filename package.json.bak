@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
